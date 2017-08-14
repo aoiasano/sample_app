@@ -1,5 +1,10 @@
 == README
 
+# Ruby on Rails チュートリアル：学習用サンプルアプリケーション
+
+これは、以下のためのサンプルアプリケーションです。
+[*侍エンジニア塾*](http://www.sejuku.net/)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
